@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/te/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/te/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/te/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/te/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/posts/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://KHADEERDS.github.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://KHADEERDS.github.com/te/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KHADEERDS.github.com/tags/"
+                />
+  </url>
+  
+</urlset>
