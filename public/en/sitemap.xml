@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://KHADEERDS.github.io/about/</loc>
+    <loc>https://khadeerds.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/posts/about/</loc>
+    <loc>https://khadeerds.github.io/posts/about/</loc>
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/categories/</loc>
+    <loc>https://khadeerds.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="te"
-                href="https://KHADEERDS.github.io/te/categories/"
+                href="https://khadeerds.github.io/te/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://KHADEERDS.github.io/categories/"
+                href="https://khadeerds.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/contact/</loc>
+    <loc>https://khadeerds.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/</loc>
+    <loc>https://khadeerds.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="te"
-                href="https://KHADEERDS.github.io/te/"
+                href="https://khadeerds.github.io/te/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://KHADEERDS.github.io/"
+                href="https://khadeerds.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/posts/</loc>
+    <loc>https://khadeerds.github.io/posts/</loc>
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/projects/</loc>
+    <loc>https://khadeerds.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/series/</loc>
+    <loc>https://khadeerds.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="te"
-                href="https://KHADEERDS.github.io/te/series/"
+                href="https://khadeerds.github.io/te/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://KHADEERDS.github.io/series/"
+                href="https://khadeerds.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>https://KHADEERDS.github.io/tags/</loc>
+    <loc>https://khadeerds.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="te"
-                href="https://KHADEERDS.github.io/te/tags/"
+                href="https://khadeerds.github.io/te/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://KHADEERDS.github.io/tags/"
+                href="https://khadeerds.github.io/tags/"
                 />
   </url>
   
